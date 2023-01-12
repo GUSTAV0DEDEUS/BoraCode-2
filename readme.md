@@ -7,7 +7,7 @@ Esse é o segundo desafio do bora code, tendo como intuito a criação da interf
 
 # Link
 
-> <https://gustav0dedeus.github.io/BoraCode2/>
+> <https://gustav0dedeus.github.io/BoraCode-2/>
 
 # Linguagens
 
